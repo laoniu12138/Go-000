@@ -1,0 +1,5 @@
+github.com/jikebang/Go-000 v0.0.0-20201130083211-4dee9cb9711c h1:Y4+BB3I2VIxpvHdIzkPa8bkAki0hntLDuRKyXgOIMSw=
+github.com/jikebang/Go-000/Week02 v0.0.0-20201130083211-4dee9cb9711c h1:n5eIlT1fxEU4dIuI/Fvsy7vO/DhowH6DA94xrH2XoO0=
+github.com/jikebang/Go-000/Week02 v0.0.0-20201130083211-4dee9cb9711c/go.mod h1:3PlLlOWjw4gmUeKDWJG1qTe+j3PT/yBvrkoJ/VVXCtU=
+github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
+github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
